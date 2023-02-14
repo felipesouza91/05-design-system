@@ -9,7 +9,6 @@
     "gh": "gh repo"
   },
   "devDependencies": {
-    "gh": "^2.8.9",
     "turbo": "^1.7.4"
   }
 }
