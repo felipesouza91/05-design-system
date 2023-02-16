@@ -1,0 +1,2 @@
+import{A as t}from"./index-4be41007.js";import"./index-39d17dc8.js";import"./es.object.get-own-property-descriptor-037fa860.js";import"./index-f97499ea.js";import"./jsx-runtime-310bfdac.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/felipesouza91.png",alt:"Felipe Souza"}},e={},m={args:{src:void 0}},c=["Primary","WithFallback"];export{e as Primary,m as WithFallback,c as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories-bcdfc0c5.js.map

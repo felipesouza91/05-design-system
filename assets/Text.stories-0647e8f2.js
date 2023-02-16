@@ -1,0 +1,2 @@
+import{T as t}from"./index-4be41007.js";import"./index-39d17dc8.js";import"./es.object.get-own-property-descriptor-037fa860.js";import"./index-f97499ea.js";import"./jsx-runtime-310bfdac.js";const m={title:"Typography/Text",component:t,args:{children:"Lorem ipsum dolor, sit amet consectetur adipisicing elit. "}},a={},n={args:{children:"Strong text",as:"strong"}},p=["Primary","CustomTag"];export{n as CustomTag,a as Primary,p as __namedExportsOrder,m as default};
+//# sourceMappingURL=Text.stories-0647e8f2.js.map
